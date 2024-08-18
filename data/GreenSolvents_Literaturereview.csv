@@ -1,0 +1,111 @@
+﻿Unnamed: 0,Year,Type,LD50,PCE,Solvent,System,URL
+1,2014,Non-Aromatic,300.00,5.1,2-MeTHF,X2 :PC61BC8,https://doi.org/10.1002/adfm.201301509
+2,2017,Non-Aromatic,300.00,10.1,2-Me-THF,PTzBI‐Si:N2200,https://doi.org/10.1002/adfm.201301509
+3,2018,Non-Aromatic,300.00,6,2-Me-THF,PTB7‐Th:PDI dimers,https://doi.org/10.1002/ange.201409208
+4,2018,Non-Aromatic,300.00,10.09,2-Me-THF,PBTA-BO:N2200,https://doi.org/10.1016/j.solmat.2014.02.001
+5,2019,Non-Aromatic,300.00,11.76,2-Me-THF,PTzBI-Si:N2200, https://doi.org/10.1002/adma.201401992
+6,2019,Non-Aromatic,300.00,12.26,2-Me-THF,PTB-EDOT/PTB-EDOTS:ITIC-Th,https://doi.org/10.1016/j.orgel.2013.10.025
+7,2021,Non-Aromatic,300.00,13.8,2-Me-THF,PTzBi-OF:PS1,https://doi.org/10.1002/advs.201500095
+8,2019,Other,700.00,0.01,Formic Acid,P3HT:CPIZ-B/CPIZ-T,https://doi.org/10.1002/aenm.201501991
+9,2015,Aromatic,890.00,7,Veratrole,P3HT:PV2000,https://doi.org/10.1039/C4TA07029A
+10,2019,"Alcohols, Ketones, & Water",900.00,1.03,1-Butanol,D-OEG:BDT,https://doi.org/10.1016/j.solmat.2014.12.014
+11,2016,Non-Aromatic,1000.00,8.1,Cyclopentyl Methyl Ether,SPVM1:PC61BM,https://doi.org/10.1016/j.orgel.2014.10.052
+12,2019,Non-Aromatic,1000.00,11,CPME,PTzBI-Si:N2200,https://doi.org/10.1016/j.orgel.2015.12.017
+13,2019,Non-Aromatic,1000.00,9.6,CPME,J51:PTB7-Th:N2200 ,https://doi.org/10.1039/C5TA00540J
+14,2013,Aromatic,1300.00,3.75,Benzaldehyde,N(Ph‐2T‐DCN‐Et)3:PC70BM,https://doi.org/10.1039/c6ta09626c
+15,2013,Aromatic,1300.00,3.6,Benzaldehyde,N(Ph‐2T‐DCN‐Et)3 :PC71BM,https://doi.org/10.1039/C6CC08939A
+16,2017,Aromatic,1363.00,7.07,2‐methylanisole,PTB7:(NDI2OD-T2),https://doi.org/10.1002/pssa.201600536
+17,2017,Aromatic,1363.00,9.6,2‐methylanisole,PTB7-Th:PC71BM, https://doi.org/10.1002/adma.201604241
+18,2017,Aromatic,1363.00,5.6,2‐methylanisole,PBDT‐TS1:PPDIODT,https://www.nature.com/articles/nenergy201527
+19,2018,Aromatic,1363.00,5.41,2‐methylanisole,P3HT:EH-IDTBR,https://doi.org/10.1021/acs.chemmater.6b03189
+20,2018,Aromatic,1363.00,5.69,2‐methylanisole,PTB7-Th:ITIC,https://doi.org/10.1016/j.orgel.2017.05.002
+21,2019,Aromatic,1363.00,9.4,2‐methylanisole,PTB7‐Th:P2FBTT‐Br,https://doi.org/10.1002/solr.201700169
+22,2019,Aromatic,1363.00,12.17,2‐methylanisole,PTB7‐Th:PC71BM,https://doi.org/10.1039/C7EE00805H
+23,2020,Aromatic,1363.00,4.52,2‐methylanisole,PTB7-Th:ITIC,https://doi.org/10.1021/acsenergylett.7b00390
+24,2020,Aromatic,1363.00,7.1,2‐methylanisole,P3HT:O-IDTBR , https://doi.org/10.1002/adma.201703906
+25,2016,Non-Aromatic,1650.00,11.34,THF,PBQ‐0F/PBQ‐QF/PBQ‐4F:ITIC,https://pubs.acs.org/doi/10.1021/acsami.7b11488
+26,2017,Non-Aromatic,1650.00,13.1,THF,PBTA‐TF:IT-M,https://doi.org/10.1021/acs.jpcc.7b07867
+27,2018,Non-Aromatic,1650.00,12.1,THF,PBDB-T-BO/PBDB-BzT:IT-M,https://doi.org/10.1016/j.orgel.2017.01.001
+28,2018,Non-Aromatic,1650.00,11.2,THF,BDT3TR‐SF:NBDTP‐Fout/NBDTP‐Fin, https://doi.org/10.1002/adfm.201702016
+29,2018,Non-Aromatic,1650.00,10.45,THF,DRTT-T / DRTT-R:F-2Cl , https://doi.org/10.1002/adma.201703973
+30,2019,Non-Aromatic,1650.00,16.1,THF,PBDB-TF-T1:BTFP-4F-12,https://doi.org/10.1007/s40843-017-9080-x
+31,2019,Non-Aromatic,1650.00,14.2,THF,T1: IT‐4F, https://doi.org/10.1002/adma.201704837
+32,2020,Non-Aromatic,1650.00,12.2,THF,PTQ10:HO-IDIC-2F,https://doi.org/10.1021/acsami.7b10059
+33,2014,Aromatic,2600.00,2.2,Toluene,P3HT:PCBM,https://doi.org/10.1016/j.orgel.2017.04.010
+34,2015,Aromatic,2600.00,3.45,Toluene,p-DTS(FBTTh2)2:NIDCSN ,. https://doi.org/10.1002/aenm.201700566
+35,2017,Aromatic,2600.00,9.73,Toluene,3MT‐Th:ITIC,https://doi.org/10.1016/j.solmat.2016.11.027
+36,2017,Aromatic,2600.00,3.3,Toluene,TQ1:PCBM,https://doi.org/10.1002/smtd.201800081
+37,2018,Aromatic,2600.00,12,Toluene,FTAZ:IT-M,https://doi.org/10.1039/C8EE01150H
+38,2018,Aromatic,2600.00,10.11,Toluene,P1:PC71BM,https://doi.org/10.1021/acs.chemmater.8b02086
+39,2018,Aromatic,2600.00,10.4,Toluene,PBZ-m-CF3:ITIC,https://doi.org/10.1002/solr.201800196
+40,2018,Aromatic,2600.00,12.4,Toluene,FTAZ:IT-M,https://doi.org/10.1021/acsaem.8b00884
+41,2019,Aromatic,2600.00,11.39,Toluene,P1‐P3/PTB7-Th:ITIC‐Th/IEICO-4F, https://doi.org/10.1002/aenm.201802832
+42,2019,Aromatic,2600.00,10.01,Toluene,P1-M-Mw:ITIC,https://doi.org/10.1039/C8TA00368H
+43,2019,Aromatic,2600.00,7.06,Toluene,PBnDT-FTAZ:IT-M, https://doi.org/10.1002/smll.201804271
+44,2019,Aromatic,2600.00,10.65,Toluene,DOTFP-PhI and DOTFP-TPD:IT-4F,
+45,2019,Aromatic,2600.00,13.2,Toluene,FTAZ+PBDB‐T:ITM, https://doi.org/10.1002/adfm.201706517
+46,2019,Aromatic,2600.00,12.3,Toluene,PBDX:IDIC,https://doi.org/10.1021/acsami.7b18637
+47,2019,Aromatic,2600.00,7.3,Toluene,"BDT-QX, QX-3:tPDI2N-EH",https://doi.org/10.1002/adma.201705485
+48,2020,Aromatic,2600.00,12.1,Toluene,PTB7-Th:EH-IDTBR,https://doi.org/10.1021/acsami.7b19548
+49,2020,Aromatic,2600.00,12.64,Toluene,P2F-EHp :IT-4F/IT-4Cl,https://doi.org/10.1039/C7TA11059F
+50,2020,Aromatic,2600.00,16.52,Toluene,PM6/PM6‐Ir1.5:Y6‐C2 ,https://doi.org/10.1002/adfm.201806262
+51,2020,Aromatic,2600.00,15.1,Toluene,PMT50:Y6,https://www.nature.com/articles/s41467-018-07807-5
+52,2021,Aromatic,2600.00,16.31,Toluene,PBDB-TF :BTIC-CF3-γ,https://doi.org/10.1016/j.orgel.2019.03.052
+53,2015,Aromatic,2680.00,2.28,Tetralin,P3HT:PCBM, https://doi.org/10.1002/smll.201805321
+54,2015,Aromatic,2720.00,8.1,"1,2,4‐trimethylbenzene (TMB)",PDTSTPD:PC71BM,https://doi.org/10.1021/acsapm.9b00433
+55,2016,Aromatic,2720.00,11.3,TMB,PffBT4T-C9C13:PC71BM,https://doi.org/10.1039/C9TC01562K
+56,2016,Aromatic,2720.00,6.4,TMB,PBSF:PCBM (70),https://onlinelibrary.wiley.com/doi/10.1002/adma.201902899
+57,2017,Aromatic,2720.00,8.19,TMB,PBODT:IDIC,https://doi.org/10.1002/aenm.201901829
+58,2017,Aromatic,2720.00,4.94,TMB,PTB7-Th :PNDIT-20/PNDIT-16, https://doi.org/10.1002/adfm.201902078
+59,2018,Aromatic,2720.00,9.55,TMB,PBDT‐2TC/PBDT‐S‐2TC:ITIC,https://pubs.rsc.org/en/content/articlelanding/2019/ee/c8ee02863j
+60,2018,Aromatic,2720.00,6.79,TMB,PT4Si-FTAZ/ PT4Si-BDD:ITIC,https://pubs.acs.org/doi/abs/10.1021/acsami.9b06963
+61,2019,Aromatic,2720.00,8.25,TMB,P3HT:TrBTIC,https://doi.org/10.1039/C9NJ02419K
+62,2019,Aromatic,2720.00,2.7,TMB,PTB7-Th:F-NPDI2,https://doi.org/10.1021/acsaem.8b02226
+63,2019,Aromatic,2720.00,12.5,TMB,PBDT-C4T/PBDT-F-C4T/PBDT-SF-C4T:IT-4F,https://doi.org/10.1002/adma.201808153
+64,2019,Aromatic,2720.00,10.39,TMB,PBDT‐F‐2TC / PBDT‐SF‐2TC:IT-4F,https://doi.org/10.1039/C8TA10882J
+65,2021,Aromatic,2720.00,10.56,TMB,PBOffDT :IT-4Cl, https://doi.org/10.1002/admt.201900040
+66,2021,Aromatic,2720.00,17.36,TMB,PM6:BTP-4Cl, https://doi.org/10.1002/solr.201900077
+67,2017,Aromatic,3188.00,11.53,CS2,BDTTNTTR/BDTSTNTTR:PC71BM,https://doi.org/10.1002/adma.201903441
+68,2020,Aromatic,3188.00,12.52,CS2,PM7:IT-4Cl, https://doi.org/10.1002/adma.201808356
+69,2014,Aromatic,3567.00,2.9, o-xylene ,P3HT:PCBM, https://doi.org/10.1002/adma.201906045
+70,2014,Aromatic,3567.00,5.2, o-xylene ,PBDTT‐F‐TT:di‐PBI,https://doi.org/10.1016/j.synthmet.2019.02.010
+71,2015,Aromatic,3567.00,9.47, o-xylene ,PBDT-TS1:PC71BM,https://doi.org/10.1039/C9TA10624C
+72,2015,Aromatic,3567.00,1.78, o-xylene ,P3HT:PCBM, https://doi.org/10.1002/marc.201800906
+73,2016,Aromatic,3567.00,4.8, o-xylene ,PTB7-Th:tPDI-Hex,https://doi.org/10.1002/advs.201901773
+74,2016,Aromatic,3567.00,5.6, o-xylene ,PTB7:PC71BM,https://doi.org/10.1021/acsaem.9b00365
+75,2017,Aromatic,3567.00,9.85, o-xylene ,PBDB-TS:ITIC,https://doi.org/10.1021/acsapm.9b00044
+76,2017,Aromatic,3567.00,8.11, o-xylene ,PTB7-Th:ITIC,https://doi.org/10.1021/acsami.9b09692
+77,2017,Aromatic,3567.00,7.25, o-xylene ,POD2T-DTBT/ PDTBT-alt-TT:PCBM, https://doi.org/10.1002/adma.201808279
+78,2017,Aromatic,3567.00,12.8, o-xylene ,PBDTS‐TDZ:ITIC,https://doi.org/10.1021/acs.chemmater.9b00174
+79,2017,Aromatic,3567.00,11.3, o-xylene ,PBDB-T:IT-M,https://doi.org/10.1021/acsami.9b14251
+80,2018,Aromatic,3567.00,12.9, o-xylene ,PM6/PffBT4T‐2OD:IT‐4F/PC71BM,https://doi.org/10.1021/acsami.9b13812
+81,2019,Aromatic,3567.00,8.22, o-xylene ,PTB7‐Th:TPDI2,https://www.sciencedirect.com/science/article/pii/S1566119920302780?via%3Dihub
+82,2019,Aromatic,3567.00,10.9, o-xylene ,P(fTh‐BDT)‐C6/P(fTh‐2DBDT)‐C6:ITIC‐Th,https://doi.org/10.1016/j.orgel.2020.105701
+83,2019,Aromatic,3567.00,6.07, o-xylene ,BDT-QX:tPDI2N-EH,https://www.sciencedirect.com/science/article/pii/S1566119920302573?via%3Dihub
+84,2019,Aromatic,3567.00,4.76, o-xylene ,P3HT:O-IDTBR,https://link.springer.com/article/10.1007/s10118-020-2429-3
+85,2019,Aromatic,3567.00,9.17, o-xylene ,PTB7-Th :IDIC/ITIC/EH-IDT,https://doi.org/10.1016/j.nanoen.2019.104327
+86,2020,Aromatic,3567.00,11.83, o-xylene ,PTB7-Th/PM6:PCBM/IT-4F,https://doi.org/10.1016/j.orgel.2020.105732
+87,2020,Aromatic,3567.00,5.78, o-xylene ,PBDTTT-C:oo-2PDI,https://pubs.rsc.org/en/content/articlelanding/2021/ta/d1ta07046k
+88,2020,Aromatic,3567.00,16.11, o-xylene ,PM6:Y-SE-CX,https://doi.org/10.1016/j.orgel.2020.105732
+89,2020,Aromatic,3567.00,5.78, o-xylene ,PBDTTT-C:oo-2PDI,https://doi.org/10.1016/j.dyepig.2020.108369
+90,2020,Aromatic,3567.00,6.14, o-xylene ,"PBDB-T: sp-mOEh-ITIC, sp-mOEh-ITIC-M, sp-mOEh-ITIC-Cl, and sp-mOEh-ITIC-F",https://www.nature.com/articles/s41560-021-00923-5
+91,2020,Aromatic,3567.00,17.22,p-xylene,PM6:Y6,https://doi.org/10.1039/D0TC01313G
+92,2021,Aromatic,3567.00,16.82, o-xylene ,PM6:BTP-EHBO-4F ,https://doi.org/10.1039/D0TA00947D
+93,2021,Aromatic,3567.00,14.9, o-xylene ,PM6:L14,https://doi.org/10.1039/C9TC05358A
+94,2021,Aromatic,3567.00,16, o-xylene ,PM6:BO-4F,https://doi.org/10.1002/solr.202000156
+95,2021,Aromatic,3567.00,14.28, o-xylene ,PBDB-T:PJ1,https://pubs.rsc.org/en/content/articlelanding/2020/TC/D0TC02032J
+96,2021,Aromatic,3567.00,13.34, o-xylene ,P4T2F-HD:Y6-BO,https://pubs.rsc.org/en/content/articlelanding/2021/cc/d0cc07213c
+97,2021,Aromatic,3567.00,16.67, o-xylene ,PTQ10/PTB7-Th:m-DTC-2Cl/BTPV-4F-eC9,https://onlinelibrary.wiley.com/doi/full/10.1002/aesr.202100043
+98,2021,Aromatic,3567.00,18.52, o-xylene ,PM6::BO-4Cl/Y6-10,https://pubs.acs.org/doi/10.1021/acsami.1c19627
+99,2021,Aromatic,3567.00,11.27, o-xylene ,PM6:IT-4F,https://pubs.rsc.org/en/content/articlelanding/2021/ee/d1ee01310f
+100,2022,Aromatic,3567.00,11.94, o-xylene ,PM6:PTer-N25,https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202107567
+101,2015,Aromatic,3700.00,6.58,Anisole,PBDT-TS1:PPDIODT,https://onlinelibrary.wiley.com/doi/10.1002/solr.202100076
+102,2021,Terpene,4300.00,2.4,Eucalyptol,PBDTTPD:PCBM,https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202008158
+103,2017,Aromatic,5000.00,11.1,Mesitylene,PffBT4T-2DT:EH-IDTBR,https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202102361
+104,2019,Terpene,5300.00,12.2,Limonene,FTAZ:IT-M,https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202107827
+105,2020,Terpene,5300.00,4.2,Limonene,PTzBI-Si:PNDICl,https://onlinelibrary.wiley.com/doi/full/10.1002/aesr.202000086
+106,2018,"Alcohols, Ketones, & Water",7000.00,1.4,Ethanol,"PPDT2FBT-A:PCBO (12,15,27)",https://pubs.rsc.org/en/content/articlelanding/2021/TC/D0TC04909C
+107,2019,"Alcohols, Ketones, & Water",7000.00,0.4,Ethanol,POEGT:TQBT/TQT2/TQFP/TQBT,https://onlinelibrary.wiley.com/doi/full/10.1002/eem2.12226
+108,2019,"Alcohols, Ketones, & Water",7000.00,2.15,Water,PPDT2FBT-A:P(NDIDEG-T),https://onlinelibrary.wiley.com/doi/10.1002/anie.202013053
+109,2022,"Alcohols, Ketones, & Water",7000.00,3.03,Ethanol,PFO3/PFO4:PCBO-12 ,https://pubs.rsc.org/en/content/articlehtml/2021/tc/d1tc05111c
+110,2018,"Alcohols, Ketones, & Water",90000.00,7.5,Water,PBQ-QF/P3HT:ITIC/IDTBR,
